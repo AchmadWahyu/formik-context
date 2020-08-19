@@ -1,5 +1,4 @@
 # formik-context
-Created with CodeSandbox
 My Simple React App using Formik to edit Context 
 
 ## Installing
